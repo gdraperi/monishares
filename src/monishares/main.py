@@ -208,7 +208,7 @@ if  __name__ == "__main__":
     print("Monishares!")
 
     
-    #share_path="shares/Export_portefeuille_simple_011920211816.csv"
+    #share_path="shares/export.csv"
     #load_shares(share_path)
     #search_and_contents("CAC40 stocks performance today.")
     inputs = {"messages": [("user", "")]}
